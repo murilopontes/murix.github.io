@@ -24,11 +24,24 @@ github_username:  murix
 #pygments: true
 permalink: '/:year/:month/:title.html'
 
+
+
 # Build settings
 markdown: kramdown
+
+
+#theme: jekyll-theme-cayman
 theme: minima
+
+# minima theme support analytics
+google_analytics: UA-32345354-5
+
+
+
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
