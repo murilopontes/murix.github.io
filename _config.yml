@@ -34,7 +34,13 @@ markdown: kramdown
 theme: minima
 
 # minima theme support analytics
-google_analytics: UA-32345354-5
+
+#dronespersonalizados
+#google_analytics: UA-32345354-5
+#murilopontes.com
+google_analytics: UA-32345354-14
+#murilopontes.eng.br
+#google_analytics: UA-32345354-15
 
 
 
